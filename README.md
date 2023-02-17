@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsTript
+- 👋 Hi, I’m @Tripto
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on learning together
