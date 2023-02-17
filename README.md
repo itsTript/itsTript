@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsTript
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on learning together
 
 
